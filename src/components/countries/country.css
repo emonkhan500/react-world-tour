@@ -1,0 +1,8 @@
+.country{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 5px;
+}
+.visited{
+    background-color: antiquewhite;
+}
